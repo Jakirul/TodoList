@@ -1,0 +1,1 @@
+To use this, you may need XAMPP installed. Put the PHPTicketSystem inside the htdocs folder and start XAMPP. Create a new database inside phpMyAdmin called "todolistphp" and import the "todolistphp.sql" file into that database.
